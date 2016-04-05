@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://adbmtnew.github.io
+title: adbmtnew
+paginate: 10
